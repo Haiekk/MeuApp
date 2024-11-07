@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Meu App</string>
+    <string name="entrar">Entrar</string>
+    <string name="text_cadastro">Crie uma conta clicando aqui</string>
+    <string name="title_cadastro">Cadastro</string>
+    <string name="tile_calcular">Calcule seu IMC</string>
+    <string name="title_resultado">Seu IMC é:</string>
 </resources>

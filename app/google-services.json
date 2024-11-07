@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "236037838915",
+    "project_id": "meu-app-edddb",
+    "storage_bucket": "meu-app-edddb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236037838915:android:d7faf25654c4487b3c1cf6",
+        "android_client_info": {
+          "package_name": "com.example.meuapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa6n2wz664GLa9jMZm4stYumwUN8Dq98Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
